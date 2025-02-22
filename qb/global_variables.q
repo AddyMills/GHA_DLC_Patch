@@ -1,0 +1,30 @@
+sl_setlist_tab = "setlist"
+sl_setlist_big = "SETLIST"
+sl_customs_tab = "customs"
+sl_customs_tier_big = "CUSTOMS"
+
+sl_beat_songs = "Beat %d of %p songs to continue"
+
+
+sl_as_made = "AS MADE"
+sl_famous_by = "FAMOUS BY"
+sl_cover_of_hit = "*COVER OF LISTED BAND'S HIT"
+sl_cover_of_artist_hit = "*COVER OF %a'S HIT"
+sl_custom_songs_big = "CUSTOM SONGS"
+sl_cover_song = "%s (cover)*"
+sl_wussed_out = "WUSSED OUT"
+sl_battle_won = "BATTLE WON"
+
+sl_bonus_no_songs = "(You haven't purchased any songs yet)"
+sl_beat_encore = "Beat encore song to continue"
+sl_beat_aerosmith_1 = "Beat %p Aerosmith song to continue"
+sl_beat_aerosmith_2 = "Beat %p Aerosmith songs to continue"
+sl_beat_boss = "Beat boss song to continue"
+sl_beat_opening_act_1 = "Beat %p opening act song to continue"
+sl_beat_opening_act_2 = "Beat %p opening act songs to continue"
+sl_career_score = "Career Score: %d"
+
+text_button_select = "SELECT"
+text_button_back = "BACK"
+text_button_updown = "UP/DOWN"
+text_button_continue = "CONTINUE"

@@ -1,0 +1,30 @@
+sl_setlist_tab = "setlist"
+sl_setlist_big = "SETLIST"
+sl_customs_tab = "Temas custom"
+sl_customs_tier_big = "TEMAS CUSTOM"
+
+sl_beat_songs = "Beat %d of %p songs to continue"
+
+
+sl_as_made = "UN"
+sl_famous_by = "CLÁSICO DE"
+sl_cover_of_hit = "*VERSIONES DE LOS ÉXITOS DE LOS GRUPOS DE LA LISTA"
+sl_cover_of_artist_hit = "*VERSIÓN DEL ÉXITO DE %a"
+sl_custom_songs_big = "TEMAS CUSTOM"
+sl_cover_song = "%s (versión)*"
+sl_wussed_out = "COBARDE"
+sl_battle_won = "GUERRA VENCIDA"
+
+sl_bonus_no_songs = "(Aún no has comprado ninguna canción)"
+sl_beat_encore = "Supera el tema que pidió el público para continuar"
+sl_beat_aerosmith_1 = "Supera %p tema de Aerosmith."
+sl_beat_aerosmith_2 = "Supera %p temas de Aerosmith."
+sl_beat_boss = "Supera el tema del rey de la guitarra para continuar"
+sl_beat_opening_act_1 = "Supera %p tema de apertura."
+sl_beat_opening_act_2 = "Supera %p temas de apertura."
+sl_career_score = "Puntuación de Carrera: %d"
+
+text_button_updown = "ARRIBA/ABAJO"
+text_button_select = "SELECCIONAR"
+text_button_back = "VOLVER"
+text_button_continue = "CONTINÚA"

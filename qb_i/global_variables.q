@@ -1,0 +1,30 @@
+sl_setlist_tab = "scaletta"
+sl_setlist_big = "SCALETTA"
+sl_customs_tab = "canzoni custom"
+sl_customs_tier_big = "CANZONI CUSTOM"
+
+sl_beat_songs = "Beat %d of %p songs to continue"
+
+
+sl_as_made = "NELLA VERSIONE"
+sl_famous_by = "resa famosa da"
+sl_cover_of_hit = "*COVER DEI SUCCESSI DEI GRUPPI ELENCATI"
+sl_cover_of_artist_hit = "*COVER DEL SUCCESSO DI %a"
+sl_custom_songs_big = "CANZONI CUSTOM"
+sl_cover_song = "%s (cover)*"
+sl_wussed_out = "PUSILLANIME!"
+sl_battle_won = "BATTAGLIA VINTA"
+
+sl_bonus_no_songs = "Non hai ancora acquistato alcun brano."
+sl_beat_encore = "Supera il bis"
+sl_beat_aerosmith_1 = "Completa %p brano degli Aerosmith"
+sl_beat_aerosmith_2 = "Completa %p brani degli Aerosmith"
+sl_beat_boss = "Supera il brano del boss"
+sl_beat_opening_act_1 = "Completa %p brani di apertura"
+sl_beat_opening_act_2 = "Completa %p brani di apertura degli Aerosmith"
+sl_career_score = "Punteggio carriera: %d"
+
+text_button_updown = "SU/GIÙ"
+text_button_select = " SELEZIONA"
+text_button_back = " INDIETRO"
+text_button_continue = "CONTINUA"

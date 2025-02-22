@@ -1,0 +1,30 @@
+sl_setlist_tab = "Setliste"
+sl_setlist_big = "SETLISTE"
+sl_customs_tab = "customs"
+sl_customs_tier_big = "CUSTOMS"
+
+sl_beat_songs = "Beat %d of %p songs to continue"
+
+
+sl_as_made = "BEKANNT"
+sl_famous_by = "BEKANNT DURCH"
+sl_cover_of_hit = "*COVER-VERSIONEN DER HITS DER AUFGELISTETEN BANDS"
+sl_cover_of_artist_hit = "*COVER-VERSION DES HITS VON %a"
+sl_custom_songs_big = "CUSTOM SONGS"
+sl_cover_song = "%s (Coverversion)*"
+sl_wussed_out = "PLATT GEMACHT"
+sl_battle_won = "SCHLACHT GEWONNEN"
+
+sl_bonus_no_songs = "(Du hast noch keine Songs gekauft)"
+sl_beat_encore = "Meistere den Zugabe-Song, um fortzufahren"
+sl_beat_aerosmith_1 = "Meistere %p Aerosmith-Song, um fortzufahren."
+sl_beat_aerosmith_2 = "Meistere %p Aerosmith-Songs, um fortzufahren."
+sl_beat_boss = "Meistere den Boss-Song, um fortzufahren"
+sl_beat_opening_act_1 = "Meistere %p Vorgruppen-Song, um fortzufahren."
+sl_beat_opening_act_2 = "Meistere %p Vorgruppen-Songs, um fortzufahren."
+sl_career_score = "Karrierepunkte: %d"
+
+text_button_updown = "OBEN/UNTEN"
+text_button_select = "WÄHLEN"
+text_button_back = "ZURÜCK"
+text_button_continue = "WEITER"
